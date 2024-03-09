@@ -1,0 +1,17 @@
+{
+  "name": "lifecoachdiscordbot",
+  "version": "1.0.0",
+  "description": "A Discord bot client for managing and accessing a personal knowledge base. This bot provides an intuitive interface for users to interact with their knowledge base directly from Discord, allowing for easy retrieval and organization of information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": []
+}
